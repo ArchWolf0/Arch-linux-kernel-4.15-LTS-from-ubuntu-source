@@ -26,12 +26,12 @@ md5sums=('7f54a16de09349d4dfbae122d25f75d5'
          'ce6c81ad1ad1f8b333fd6077d47abdaf'
          'a85bfae59eb537b973c388ffadb281ff'
          'a329f9581060d555dc7358483de9760a'
-         '1a49696ed7fc4939b0b5a49894fbd77aa2facd93')
+         'SKIP')
 
-sha256sums=('ab263f952ea725b5e74276a8d1bcd365a3130a8950379893455b525efee0d971'
-            'ae2e95db94ef7176207c690224169594d49445e04249d2499e9d2fbc117a0b21'
-            '75f99f5239e03238f88d1a834c50043ec32b1dc568f2cc291b07d04718483919'
-            'ad6344badc91ad0630caacde83f7f9b97276f80d26a20619a87952be65492c65'
+sha256sums=('SKIP'
+            'SKIP'
+            'SKIP'
+            'SKIP'
             'SKIP')
 
 _kernelname=${pkgbase#linux}
